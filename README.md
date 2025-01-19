@@ -1,21 +1,76 @@
-<h1 align="center">Hi 👋, I'm Muhammed Yaseen A</h1>
-<h3 align="center">A passionate in Technologies from India</h3>
+<h1 align="center">👋 Hi there! I'm Muhammed Yaseen 👨‍💻</h1>
+<h3 align="center">MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseen721&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen721" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaseen721" alt="yaseen721" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 📫 How to reach me **yaseenanwar8921@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Welcome to my GitHub profile! 🚀 I’m a passionate developer specializing in building scalable and efficient full-stack applications using the <b>MERN (MongoDB, Express, React, Node.js)</b> stack. I love solving problems, learning new technologies, and bringing creative ideas to life through code.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaseen721&show_icons=true&locale=en&layout=compact" alt="yaseen721" /></p>
+<h2>🌟 About Me</h2>
+<ul>
+  <li>🔭 Currently working on <b>exciting full-stack projects</b></li>
+  <li>🌱 Exploring <b>New Technologies</b></li>
+  <li>💬 Ask me about <b>MERN Stack</b>, <b>Web Development</b>, or <b>JavaScript</b></li>
+  <li>📫 Reach me at: <a href="yaseenanwar8921@gmail.com">yaseenanwar8921@gmail.com</a></li>
+  <li>⚡ Fun fact: I turn ☕ and 🍕 into clean, reusable code!</li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaseen721&show_icons=true&locale=en" alt="yaseen721" /></p>
+---
+
+<h2>🚀 Skills & Technologies</h2>
+<h3>💻 Programming & Development</h3>
+<ul>
+  <li><b>Frontend:</b> React.js, Redux, HTML5, CSS3, Tailwind, Bootstrap</li>
+  <li><b>Backend:</b> Node.js, Express.js</li>
+  <li><b>Database:</b> MongoDB, MySQL</li>
+  <li><b>Version Control:</b> Git, GitHub</li>
+  <li><b>Others:</b> REST APIs, JWT, Payment Gateways</li>
+</ul>
+
+<h3>🔧 Tools & Platforms</h3>
+<ul>
+  <li>VS Code, Postman, Firebase</li>
+</ul>
+
+---
+
+<h2>📂 Projects</h2>
+<p>Here are some of my favorite projects:</p>
+
+<h3>1. E-Commerce Application 🛍️</h3>
+<p>A full-fledged MERN stack e-commerce platform with user authentication, product management, and payment integration.</p>
+<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo</a>
+
+<h3>2. Task Manager Application ✅</h3>
+<p>A simple task management app with CRUD operations and RESTful APIs. Built using React and Node.js.</p>
+<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo</a>
+
+<h3>3. Portfolio Website 🌐</h3>
+<p>My personal portfolio showcasing my skills, projects, and achievements.</p>
+<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo</a>
+
+---
+
+<h2>📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-yaseen&show_icons=true&theme=radical" alt="Yaseen's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-yaseen&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h2>🌍 Let's Connect!</h2>
+<p>
+  🌐 <a href="#">Portfolio</a><br>
+  💼 <a href="https://www.linkedin.com/in/muhammed-yaseen-a-363a7a27b/">LinkedIn</a><br>
+  📧 <a href="yaseenanwar8921@gmail.com">yaseenanwar8921@gmail.com</a>
+</p>
+
+---
+
+<h3 align="center">💡 Motto: "Code is like humor. When you have to explain it, it’s bad."</h3>
+<p align="center">Thanks for stopping by! 😊 Feel free to explore my repositories and reach out for collaboration!</p>
+
