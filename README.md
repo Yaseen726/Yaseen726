@@ -102,15 +102,15 @@
 
 <h3>1. E-Commerce Application 🛍️</h3>
 <p>A full-fledged MERN stack e-commerce platform with user authentication, product management, and payment integration.</p>
-<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo (🔧 in maintenance)</a>
+<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo <span>(🔧 in maintenance)</span></a>
 
 <h3>2. Task Manager Application ✅</h3>
-<p>A simple task management app with CRUD operations and RESTful APIs. Built using React and Node.js.(🔧 in maintenance)</p>
-<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo (🔧 in maintenance)</a>
+<p>A simple task management app with CRUD operations and RESTful APIs. Built using React and Node.js.</p>
+<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo <span>(🔧 in maintenance)</span></a>
 
 <h3>3. Portfolio Website 🌐</h3>
-<p>My personal portfolio showcasing my skills, projects, and achievements.(🔧 in maintenance)</p>
-<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo (🔧 in maintenance)</a>
+<p>My personal portfolio showcasing my skills, projects, and achievements.</p>
+<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo <span>(🔧 in maintenance)</span></a>
 
 ---
 
