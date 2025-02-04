@@ -22,11 +22,11 @@
 
 <h3>💻 Programming & Development</h3>
 <ul>
-  <li><b>Frontend:</b> React.js, Redux, HTML5, CSS3, Tailwind, Bootstrap</li>
+  <li><b>Frontend:</b> HTML5, CSS3, Bootstrap</li>
   <li><b>Backend:</b> Node.js, Express.js</li>
-  <li><b>Database:</b> MongoDB, MySQL, PostgreSQL</li>
+  <li><b>Database:</b> MongoDB,mongoose</li>
   <li><b>Version Control:</b> Git, GitHub</li>
-  <li><b>Tools:</b> Firebase, Figma, Postman, Linux</li>
+  <li><b>Tools:</b>Figma, Postman</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -104,13 +104,6 @@
 <p>A full-fledged MERN stack e-commerce platform with user authentication, product management, and payment integration.</p>
 <a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo <span>(🔧 in maintenance)</span></a>
 
-<h3>2. Task Manager Application ✅</h3>
-<p>A simple task management app with CRUD operations and RESTful APIs. Built using React and Node.js.</p>
-<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo <span>(🔧 in maintenance)</span></a>
-
-<h3>3. Portfolio Website 🌐</h3>
-<p>My personal portfolio showcasing my skills, projects, and achievements.</p>
-<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo <span>(🔧 in maintenance)</span></a>
 
 ---
 
