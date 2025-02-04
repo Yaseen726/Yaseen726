@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi there! I'm Muhammed Yaseen 👨‍💻</h1>
-<h3 align="center">MERN Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  Welcome to my GitHub profile! 🚀 I’m a passionate developer specializing in building scalable and efficient full-stack applications using the <b>MERN (MongoDB, Express, React, Node.js)</b> stack. I love solving problems, learning new technologies, and bringing creative ideas to life through code.
+  Welcome to my GitHub profile! 🚀 I’m a passionate developer specializing in building scalable and efficient full-stack applications using the <b> (MongoDB, Express, Node.js,html,css,ejs)</b> stack. I love solving problems, learning new technologies, and bringing creative ideas to life through code.
 </p>
 
 ---
@@ -22,7 +22,7 @@
 
 <h3>💻 Programming & Development</h3>
 <ul>
-  <li><b>Frontend:</b> HTML5, CSS3, Bootstrap</li>
+  <li><b>Frontend:</b> HTML5, CSS3, Bootstrap,ejs</li>
   <li><b>Backend:</b> Node.js, Express.js</li>
   <li><b>Database:</b> MongoDB,mongoose</li>
   <li><b>Version Control:</b> Git, GitHub</li>
@@ -102,7 +102,7 @@
 
 <h3>1. E-Commerce Application 🛍️</h3>
 <p>A full-fledged MERN stack e-commerce platform with user authentication, product management, and payment integration.</p>
-<a href="#">🔗 View on GitHub</a> | <a href="#">🚀 Live Demo <span>(🔧 in maintenance)</span></a>
+<a href="#">🔗 View on GitHub</a></a>
 
 
 ---
