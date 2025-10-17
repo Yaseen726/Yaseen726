@@ -74,13 +74,11 @@
 ## 📂 Featured Projects
 
 - ⚙️ **Shop-Now-API** — Django REST Framework backend for e-commerce (Auth, Products, Orders, Celery email tasks)  
-  🔗 [GitHub Repo](https://github.com/Yaseen726/Shop-Now-Api)
-- 🧩 **EcommerceNew** — Full-stack e-commerce demos (MERN + EJS variants)  
+  🔗 [Working......]
+- 🧩 **EcommerceNew** —  e-commerce platform (expressjs + mongodb + EJS variants)  
   🔗 [GitHub Repo](https://github.com/Yaseen726/EcommerceNew)
-- 👥 **UserManagement** — User CRUD & auth demo with JWT and clean routing  
+- 👥 **UserManagement** — User CRUD & auth demo with clean routing  
   🔗 [GitHub Repo](https://github.com/Yaseen726/UserManagement)
-- 🚀 **Async Tasks Demo** — Django + Celery + Redis sample background jobs  
-  🔗 [GitHub Repo](https://github.com/Yaseen726/littlebit)
 
 <p align="center">
   <a href="https://github.com/Yaseen726?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-Github-181717?style=for-the-badge&logo=github" /></a>
