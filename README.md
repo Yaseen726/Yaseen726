@@ -78,6 +78,10 @@
   <img alt="Redis" src="https://img.shields.io/badge/Redis-75%25-DC382D?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Skills GIF" width="500" />
+</p>
+
 ---
 
 ## 📂 Featured Projects
@@ -99,6 +103,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yaseen726&show_icons=true&theme=radical&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen726&layout=compact&theme=radical" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="GitHub GIF" width="500" />
 </p>
 
 ---
